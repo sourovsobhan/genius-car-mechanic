@@ -1,0 +1,9 @@
+.service {
+  border-radius: 20px;
+  background-color: aliceblue;
+  margin-bottom: 20px;
+}
+
+.service img {
+  width: 100%;
+}
